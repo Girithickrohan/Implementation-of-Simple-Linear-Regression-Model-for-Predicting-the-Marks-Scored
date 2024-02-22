@@ -74,20 +74,23 @@ print("RMSE= ",rmse)
 
 ## Dataset:
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/Screenshot%202024-02-22%20231305.png)
 
 ## Head values:
 
-![img](
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/Screenshot%202024-02-22%20231313.png)
+
+## Tail values:
+
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/Screenshot%202024-02-22%20231320.png)
 
 ## X and Y values:
 
-![img](
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/Screenshot%202024-02-22%20231340.png)
 
 ## Training Set, Testing Set, MSE, MAE and RMSE:
 
-![img](
-
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/Screenshot%202024-02-22%20231354.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
